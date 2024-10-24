@@ -1,0 +1,7 @@
+// Prueba 5:
+var a = 10;
+var vari;
+for(vari=0; vari<a ;vari= vari+1){
+    print vari;
+    var hola = 2;
+}

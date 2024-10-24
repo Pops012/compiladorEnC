@@ -1,0 +1,6 @@
+// Prueba 1:
+var nombre = "Nombre";
+var apellido1 = "Apellido";
+
+yo = "Nombre";
+print nombre + " " + apellido1;
